@@ -1,0 +1,144 @@
+- distance: 96.747642
+  link_to_next: false
+  notes: [four_left]
+- distance: 174.357342
+  link_to_next: false
+  notes: [two_right, keep_in]
+- distance: 228.5427465
+  link_to_next: false
+  notes: [into_crest]
+- distance: 275.92474500000003
+  link_to_next: false
+  notes: [and_five_left, tightens, dont_cut]
+- distance: 359.168085
+  link_to_next: false
+  notes: [and_three_right, '60']
+- distance: 476.84141999999997
+  link_to_next: false
+  notes: [four_left_over_crest, '100']
+- distance: 647.511615
+  link_to_next: false
+  notes: [small_jump]
+- distance: 695.866545
+  link_to_next: false
+  notes: [and_slight_left_over_crest, '30']
+- distance: 774.7771499999999
+  link_to_next: false
+  notes: [three_right, opens, '80']
+- distance: 899.8811099999999
+  link_to_next: false
+  notes: [three_left, tightens_long, '40']
+- distance: 1009.33767
+  link_to_next: false
+  notes: [turn_one_left, onto_cobbles]
+- distance: 1066.797
+  link_to_next: false
+  notes: [into_slight_right, '130', onto_gravel]
+- distance: 1192.452345
+  link_to_next: false
+  notes: [one_right, opens, '60']
+- distance: 1306.7937
+  link_to_next: false
+  notes: [crest]
+- distance: 1374.04332
+  link_to_next: false
+  notes: [and_six_right]
+- distance: 1407.640185
+  link_to_next: false
+  notes: [six_left, keep_right]
+- distance: 1489.7983500000003
+  link_to_next: false
+  notes: [into_five_left_over_crest, dont_cut]
+- distance: 1536.5435400000001
+  link_to_next: false
+  notes: [into_slight_right]
+- distance: 1573.4814749999998
+  link_to_next: false
+  notes: [into_six_left]
+- distance: 1663.8095250000001
+  link_to_next: false
+  notes: [into_jump]
+- distance: 1712.8852650000001
+  link_to_next: false
+  notes: [and_slight_left, long]
+- distance: 1804.551435
+  link_to_next: false
+  notes: [into_six_right_over_crest]
+- distance: 1874.9079
+  link_to_next: false
+  notes: [and_bump]
+- distance: 1916.32788
+  link_to_next: false
+  notes: [into_late_four_left, keep_in, '50']
+- distance: 2025.14832
+  link_to_next: false
+  notes: [right_over_crest, '100']
+- distance: 2135.8774350000003
+  link_to_next: false
+  notes: [late_one_right, half_long_tightens]
+- distance: 2212.074
+  link_to_next: false
+  notes: [and_three_left, half_long_tightens]
+- distance: 2271.09753
+  link_to_next: false
+  notes: [into_four_right_short, '100']
+- distance: 2401.53597
+  link_to_next: false
+  notes: [six_left_over_crest]
+- distance: 2451.855735
+  link_to_next: false
+  notes: [into_five_right, caution]
+- distance: 2536.16571
+  link_to_next: false
+  notes: [and_four_left_over_jump, half_long_tightens, '40']
+- distance: 2670.25194
+  link_to_next: false
+  notes: [three_right, '70']
+- distance: 2761.45965
+  link_to_next: false
+  notes: [five_left_over_crest, '100']
+- distance: 2876.5962
+  link_to_next: false
+  notes: [turn_hairpin_right, short, around_bale, '120']
+- distance: 3011.42205
+  link_to_next: false
+  notes: [three_right_sharp, '40']
+- distance: 3098.66265
+  link_to_next: false
+  notes: [six_left, '90']
+- distance: 3202.9141500000005
+  link_to_next: false
+  notes: [crest]
+- distance: 3252.5239500000002
+  link_to_next: false
+  notes: [and_left_over_crest]
+- distance: 3305.2122
+  link_to_next: false
+  notes: [into_five_right]
+- distance: 3342.1032000000005
+  link_to_next: false
+  notes: [five_left_short, '120']
+- distance: 3524.8068000000003
+  link_to_next: false
+  notes: [six_left_over_crest, '90', slowing]
+- distance: 3670.2459
+  link_to_next: false
+  notes: [right_over_crest]
+- distance: 3738.7314
+  link_to_next: false
+  notes: [into_five_left, half_long_tightens, '30']
+- distance: 3860.8305299999997
+  link_to_next: false
+  notes: [one_right_short]
+- distance: 3913.387425
+  link_to_next: false
+  notes: [and_crest]
+- distance: 3973.113
+  link_to_next: false
+  notes: [into_late_five_left, half_long_tightens, '170']
+- distance: 4221.8325
+  link_to_next: false
+  notes: [turn_two_left, onto_tarmac, '50']
+- distance: 4300.3296
+  link_to_next: false
+  notes: [finish, and_four_left, to_stop]

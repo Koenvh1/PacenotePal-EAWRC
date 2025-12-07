@@ -1,0 +1,165 @@
+- distance: 122.0621985
+  link_to_next: false
+  notes: [five_right, long_tightens]
+- distance: 261.18168999999995
+  link_to_next: false
+  notes: [into_four_left_short, '80']
+- distance: 374.43356500000004
+  link_to_next: false
+  notes: [slight_left]
+- distance: 429.23672000000005
+  link_to_next: false
+  notes: [into_six_right_over_crest, '70']
+- distance: 539.276925
+  link_to_next: false
+  notes: [crest, '240']
+- distance: 782.564585
+  link_to_next: false
+  notes: [late_four_left, half_long, '90']
+- distance: 948.997885
+  link_to_next: false
+  notes: [five_right, over_small_jump, '120']
+- distance: 1120.0510749999999
+  link_to_next: false
+  notes: [left_over_jump, '60']
+- distance: 1207.31655
+  link_to_next: false
+  notes: [five_left_short, '90']
+- distance: 1326.96531
+  link_to_next: false
+  notes: [slight_right_short, '170']
+- distance: 1507.3260400000001
+  link_to_next: false
+  notes: [slight_left, past_junction, '130']
+- distance: 1671.90628
+  link_to_next: false
+  notes: [five_left, keep_in]
+- distance: 1738.538285
+  link_to_next: false
+  notes: [and_left_over_crest, '40']
+- distance: 1819.1832999999997
+  link_to_next: false
+  notes: [caution, right_over_big_jump, '120']
+- distance: 1945.57253
+  link_to_next: false
+  notes: [six_left, slowing, '50']
+- distance: 2043.6075000000003
+  link_to_next: false
+  notes: [slight_left, '30']
+- distance: 2114.4375999999997
+  link_to_next: false
+  notes: [two_right, tightens, '40']
+- distance: 2188.561265
+  link_to_next: false
+  notes: [one_left_short, over_crest, '170']
+- distance: 2382.63795
+  link_to_next: false
+  notes: [slight_right]
+- distance: 2426.065565
+  link_to_next: false
+  notes: [into_crest, '50']
+- distance: 2493.24933
+  link_to_next: false
+  notes: [three_right_short, wall_inside]
+- distance: 2543.7755749999997
+  link_to_next: false
+  notes: [and_slight_left_over_crest, long]
+- distance: 2674.17425
+  link_to_next: false
+  notes: [into_crest, '50']
+- distance: 2745.23535
+  link_to_next: false
+  notes: [four_right, past_junction]
+- distance: 2807.9601000000002
+  link_to_next: false
+  notes: [and_three_left, tightens, '60']
+- distance: 2898.33115
+  link_to_next: false
+  notes: [two_left_short, '80']
+- distance: 2996.5935999999997
+  link_to_next: false
+  notes: [three_left, '30']
+- distance: 3048.2023
+  link_to_next: false
+  notes: [one_right, half_long_tightens]
+- distance: 3100.013015
+  link_to_next: false
+  notes: [and_square_left, long, '40']
+- distance: 3181.579335
+  link_to_next: false
+  notes: [four_right, '30']
+- distance: 3242.4199500000004
+  link_to_next: false
+  notes: [two_right, '40']
+- distance: 3298.3962
+  link_to_next: false
+  notes: [three_left_short]
+- distance: 3347.2312500000003
+  link_to_next: false
+  notes: [and_turn_two_left, onto_tarmac, '50']
+- distance: 3424.0899000000004
+  link_to_next: false
+  notes: [turn_hairpin_right, onto_gravel]
+- distance: 3473.03187
+  link_to_next: false
+  notes: [and_four_left, '60']
+- distance: 3552.9010000000003
+  link_to_next: false
+  notes: [three_left_short, tightens]
+- distance: 3604.9048199999997
+  link_to_next: false
+  notes: [into_slight_right, '40']
+- distance: 3657.3724
+  link_to_next: false
+  notes: [acute_hairpin_left, '80']
+- distance: 3762.8547
+  link_to_next: false
+  notes: [three_right, tightens_and_opens, '40']
+- distance: 3874.0294999999996
+  link_to_next: false
+  notes: [three_right, past_junction, '50']
+- distance: 3954.1254500000005
+  link_to_next: false
+  notes: [left_over_small_crest, '30']
+- distance: 3996.8169999999996
+  link_to_next: false
+  notes: [two_left, half_long, '40']
+- distance: 4093.94458
+  link_to_next: false
+  notes: [four_right_over_crest, half_long_tightens, '70']
+- distance: 4239.344725
+  link_to_next: false
+  notes: [five_left_short, '40']
+- distance: 4307.76995
+  link_to_next: false
+  notes: [unseen, four_right]
+- distance: 4359.65178
+  link_to_next: false
+  notes: [into_three_left_sharp, '50']
+- distance: 4455.343749999999
+  link_to_next: false
+  notes: [four_right, '100']
+- distance: 4595.28333
+  link_to_next: false
+  notes: [slight_left, long]
+- distance: 4722.7565
+  link_to_next: false
+  notes: [and_turn_five_right, short, caution, '120']
+- distance: 4868.91537
+  link_to_next: false
+  notes: [big_jump]
+- distance: 4916.666700000001
+  link_to_next: false
+  notes: [and_slight_right, '60']
+- distance: 5003.32745
+  link_to_next: false
+  notes: [small_crest]
+- distance: 5048.711249999999
+  link_to_next: false
+  notes: [and_three_right_sharp, '170']
+- distance: 5242.448475
+  link_to_next: false
+  notes: [six_right]
+- distance: 5288.386399999999
+  link_to_next: false
+  notes: [over_finish, into_slight_left, '150', to_stop]
