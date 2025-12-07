@@ -1,6 +1,6 @@
 # EA WRC bridge
 
-A quick and dirty way to make [Pacenote Pal](https://github.com/Koenvh1/ACRally-Pacenote) 
+A quick and dirty way to make [Pacenote Pal](https://github.com/Koenvh1/PacenotePal) 
 work with EA WRC. 
 
 Requires `pacenotepal.json` to be copied to `Documents\My Games\WRC\telemetry\udp`. Edit
