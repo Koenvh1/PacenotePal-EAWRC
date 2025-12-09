@@ -64,8 +64,6 @@ namespace EAWRCbridge
 
                 float speed_kmh = speed_ms * (float)3.6;
 
-                Console.WriteLine(speed_kmh);
-
                 var to_write = new byte[800];
 
                 packet_id++;
